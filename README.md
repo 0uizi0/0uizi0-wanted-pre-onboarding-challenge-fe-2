@@ -1,4 +1,4 @@
-## wanted-pre-onboarding-challenge-fe-2
+# wanted-pre-onboarding-challenge-fe-2
 프리온보딩 프론트엔드 챌린지 사전 과제
 
 ### 필수 요구사항
@@ -10,6 +10,7 @@
     - 함수 및 클래스의 내부는 구현하지 않습니다.
 - `JSDoc`을 활용해 문서화한다.
 - `GitHub Page`를 활용해 `JSDoc` 정적 페이지를 배포한다.
+    - [JSDoc 페이지 바로가기](https://0uizi0.github.io/0uizi0-wanted-pre-onboarding-challenge-fe-2/out/index.html)
 
 ### **Todo**
 
